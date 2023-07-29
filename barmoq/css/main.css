@@ -1,0 +1,131 @@
+body{
+    background: grey;
+}
+.block{
+    width: 1200px;
+    margin: 3px;
+    left:300px;
+    bottom: 500px;
+}
+.item1{
+
+    width: 50px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 12px;
+    float: left;
+    margin-left: 200px;
+    margin-top:300px ;
+}
+.item2{
+
+    width: 50px;
+    height: 120px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-top:300px ;
+}
+.item3{
+
+    width: 50px;
+    height: 140px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-top:300px ;
+}
+.item4{
+
+    width: 50px;
+    height: 120px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-top:300px ;
+}
+.item5{
+
+    width: 50px;
+    height: 40px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 12px;
+    float: left;
+    margin-left: 5px;
+    margin-top:300px ;
+}
+.kok1{
+    height: 10px;
+    width: 40px;
+    background-color: blue;
+    margin-left: 4px;
+    margin-top: 3px;
+    border-radius: 3px;
+}
+.item1-kok2{
+    height: 25px;
+    width: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: blue;
+    border-bottom-left-radius:40px ;
+    margin-top: 70px;
+    margin-left: 2px;
+    position: relative;
+    left: 3px;
+}
+.item2-kok2{
+    height: 25px;
+    width: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: blue;
+    border-bottom-left-radius:40px ;
+    margin-top: 70px;
+    margin-left: 2px;
+    position: relative;
+    left: 3px;
+    top: 17px;
+}
+.item3-kok2{
+    height: 25px;
+    width: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: blue;
+    border-bottom-left-radius:40px ;
+    margin-top: 70px;
+    margin-left: 2px;
+    position: relative;
+    left: 3px;
+    top: 37px;
+}
+.item4-kok2{
+    height: 25px;
+    width: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: blue;
+    border-bottom-left-radius:40px ;
+    margin-top: 70px;
+    margin-left: 2px;
+    position: relative;
+    left: 3px;
+    top: 27px;
+}
+.item5-kok2{
+    height: 25px;
+    width: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: blue;
+    border-bottom-left-radius:40px ;
+    margin-top: 70px;
+    margin-left: 2px;
+    position: relative;
+    left: 3px;
+  bottom: 50px;
+}

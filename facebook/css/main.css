@@ -1,0 +1,144 @@
+.wrap{
+    width: 1200px;
+    margin: 200px 0 auto;
+}
+.rasm{
+    width: 400px;
+    margin-left: 400px;
+    margin-top: -50px;
+}
+.navbar{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+}
+.new{
+    margin-top: -10px;
+    text-align: center;
+}
+.ikki{
+     text-align: center ;
+}
+.firstname{
+    width: 200px;
+    position: absolute;
+}
+.lastname{
+    position: relative;
+    width: 200px;
+    margin-left: 262px;
+}
+input{
+    width: 100%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+label{
+    width: 50%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: right;
+    margin-bottom: 10px;
+}
+.birthday{
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: -25px;
+    text-align: left;
+}
+.month{
+    width: 450px;
+    position: absolute;
+    margin-left: -12px;
+}
+.day1{
+    width: 450px;
+    position: absolute;
+    margin-left: 160px;
+}
+.year{
+    width: 450px;
+    position: relative;
+    margin-left: 320px
+}
+.gender{
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: left;
+    margin-left: -25px;
+}
+.bir{
+    width: 500px;
+    display: inline-block;
+}
+.female{
+    width: 130px;
+    height: 35px;
+    border: 1px solid black;
+}
+.yoq{
+    position: absolute;
+}
+.ha{
+    position: relative;
+    margin-top: 8px;
+    margin-left: 55px;
+}
+.male{
+    width: 130px;
+    height: 35px;
+    border: 1px solid black;
+    margin-left: 160px;
+    margin-top: -42px;
+}
+.yoq1{
+    position: absolute;
+}
+.ha1{
+    position: relative;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.custom{
+    width: 130px;
+    height: 35px;
+    border: 1px solid black;
+    margin-left: 325px;
+    margin-top: -42px;
+}
+.yoq2{
+    position: absolute;
+}
+.ha2{
+    position: relative;
+    margin-top: 8px;
+    margin-left: 55px;
+}
+.oy{
+    margin-left: 10px;
+    width: 30%;
+}
+.day{
+    width: 30%;
+}
+.name{
+    width: 30%;
+}
+.button{
+    width: 50%;
+    height: 40px;
+    margin-left: 100px;
+    background-color: limegreen;
+}
+.on{
+    text-align: center;
+    list-style: none;
+}
+
